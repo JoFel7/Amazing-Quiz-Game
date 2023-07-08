@@ -2,7 +2,6 @@
 var startBtn = document.querySelector('#start-button');
 var timerEl = document.querySelector('#timer');
 var mainEl = document.querySelector('#main');
-var homeLi = document.querySelector('#home-link');
 var highscoreLi = document.querySelector('#highscore-link')
 
 //Variables
